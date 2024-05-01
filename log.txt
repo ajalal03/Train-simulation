@@ -1,0 +1,74 @@
+Train orange moves from Ruggles to Back Bay
+Train blue moves from Bowdoin to State
+Train green moves from Tufts to East Sommerville
+Passenger Alice boards red at Davis
+Train red moves from Davis to Harvard
+Train orange moves from Back Bay to Tufts Medical Center
+Train blue moves from State to Aquarium
+Train green moves from East Sommerville to Lechmere
+Train red moves from Harvard to Kendall
+Train orange moves from Tufts Medical Center to Chinatown
+Train blue moves from Aquarium to Maverick
+Train green moves from Lechmere to North Station
+Passenger Alice deboards red at Kendall
+Train red moves from Kendall to Park
+Train orange moves from Chinatown to Downtown Crossing
+Train blue moves from Maverick to Airport
+Train green moves from North Station to Government Center
+Train orange moves from Downtown Crossing to State
+Train blue moves from Airport to Maverick
+Train red moves from Park to Downtown Crossing
+Train green moves from Government Center to Park
+Train orange moves from State to North Station
+Train blue moves from Maverick to Aquarium
+Passenger Bob boards green at Park
+Train green moves from Park to Boylston
+Train red moves from Downtown Crossing to South Station
+Train orange moves from North Station to Sullivan
+Train blue moves from Aquarium to State
+Train green moves from Boylston to Arlington
+Train red moves from South Station to Broadway
+Train orange moves from Sullivan to North Station
+Train blue moves from State to Bowdoin
+Train green moves from Arlington to Copley
+Train red moves from Broadway to Andrew
+Train orange moves from North Station to State
+Train green moves from Copley to Arlington
+Train red moves from Andrew to JFK
+Train orange moves from State to Downtown Crossing
+Train blue moves from Bowdoin to State
+Train red moves from JFK to Andrew
+Train green moves from Arlington to Boylston
+Train orange moves from Downtown Crossing to Chinatown
+Train blue moves from State to Aquarium
+Train red moves from Andrew to Broadway
+Train green moves from Boylston to Park
+Train orange moves from Chinatown to Tufts Medical Center
+Train blue moves from Aquarium to Maverick
+Train red moves from Broadway to South Station
+Train green moves from Park to Government Center
+Train orange moves from Tufts Medical Center to Back Bay
+Train blue moves from Maverick to Airport
+Train red moves from South Station to Downtown Crossing
+Train green moves from Government Center to North Station
+Train orange moves from Back Bay to Ruggles
+Train blue moves from Airport to Maverick
+Train red moves from Downtown Crossing to Park
+Train green moves from North Station to Lechmere
+Train orange moves from Ruggles to Back Bay
+Train blue moves from Maverick to Aquarium
+Train red moves from Park to Kendall
+Train green moves from Lechmere to East Sommerville
+Train orange moves from Back Bay to Tufts Medical Center
+Train blue moves from Aquarium to State
+Train red moves from Kendall to Harvard
+Train green moves from East Sommerville to Tufts
+Train orange moves from Tufts Medical Center to Chinatown
+Train blue moves from State to Bowdoin
+Train red moves from Harvard to Davis
+Passenger Bob deboards green at Tufts
+Train green moves from Tufts to East Sommerville
+Train red moves from Davis to Harvard
+Train orange moves from Chinatown to Downtown Crossing
+Train green moves from East Sommerville to Lechmere
+Train blue moves from Bowdoin to State
